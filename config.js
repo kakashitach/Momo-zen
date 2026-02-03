@@ -10,17 +10,17 @@ const __dirname = path.dirname(__filename);
 // ================== CONFIGURATION PAR DÉFAUT ==================
 const defaultConfig = {
   // 🔑 Identifiants
-  SESSION_ID: "kaya~XVEkRbLb#5Q1DStoqD4UrswAEOzyWOkvVlp3WB7I7XhTegHj7fqE",
-  OWNERS: ["221785367407"], // ← tableau des owners, uniquement les numéros
-  PREFIX: ".",
+  SESSION_ID: "momo~ndFjSIIS#QmuciF9RnM1vmJDoIyHfJqwo3pDgnEahJPnHbHI7XO0",
+  OWNERS: ["15144754221"], // ← tableau des owners, uniquement les numéros
+  PREFIX: "/",
   TIMEZONE: "Africa/Kinshasa",
   VERSION: "2.0.0",
 
   // 🤖 Paramètres du bot
-  public: true,
+  public: false,
   autoRead: true,
   restrict: false,
-  botImage: "",
+  botImage: "𓊈✞𝛫𝛥𝛫𝛥𝑆𝛨𝛪✞𝑲𝑰𝑹𝑨𓊉࿐",
   blockInbox: false,
 
   // 🌐 Liens utiles
